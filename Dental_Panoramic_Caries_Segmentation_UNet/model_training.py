@@ -49,7 +49,7 @@ X = np.asarray(X)
 Y = np.asarray(Y)
 
 X = X.astype('float32')
-X = Y.astype('float32')
+Y = Y.astype('float32')
 
 
 # Train Test Split
